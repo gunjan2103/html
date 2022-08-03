@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+img{
+    width: 80px; height: 80px;
+    margin-right: 50%;
+}
+h1{
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+}
+.banner{
+    background-color: aliceblue;
+    padding-bottom: 5px;
+}
+p{
+    text-align: center;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
